@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "source-map-loader": "^3.0.0",
+    "ts-loader": "^9.2.6"
+  },
+  "devDependencies": {
+    "@types/jquery": "^3.5.8"
+  }
+}
